@@ -1,4 +1,4 @@
-🤖 Profile
+💻 Profile
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=INITIALIZING+AI+SYSTEM...;ACCESS+GRANTED;WELCOME+COMMANDER" />
@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,kotlin,swift,js,ts,rust,go,bash,linux,docker,git,github,androidstudio,flutter,react" />
 </p>
 
-🚀 Linguagem
+🧑‍🏫 Linguagem
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=500&lines=C;C%2B%2B;Python;Objective-C;Swift" />
