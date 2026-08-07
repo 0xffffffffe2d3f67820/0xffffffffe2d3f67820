@@ -19,11 +19,9 @@
 
 🧑‍🏫 Linguagem
 
-• C
-• C++
-• Python
-• Objective-C
-• Swift
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=500&lines=C;C%2B%2B;Python;Objective-C;Swift" />
+</p>
 
 📊 GitHub Stats
 
