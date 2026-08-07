@@ -1,16 +1,50 @@
-## Hi there 👋
+🤖 Profile
 
-<!--
-**0xffffffffe2d3f67820/0xffffffffe2d3f67820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=INITIALIZING+AI+SYSTEM...;ACCESS+GRANTED;WELCOME+COMMANDER" />
+</p>
 
-Here are some ideas to get you started:
+👋 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+> ScreenShare Forense
+> Developer
+```
+
+⚙️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,kotlin,swift,js,ts,rust,go,bash,linux,docker,git,github,androidstudio,flutter,react" />
+</p>
+
+🚀 Linguagem
+
+• C
+• C++
+• Python
+• Objective-C
+• Swift
+• Shell (sh)
+
+📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=0xffffffffe2d3f67820&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xffffffffe2d3f67820&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xffffffffe2d3f67820&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xffffffffe2d3f67820&theme=tokyo-night"/>
+</p>
+
+🌐 Redes
+
+[GitHub](https://github.com/0xffffffffe2d3f67820)
+[Discord](https://discord.gg/gAD5eZZ7S)
+[Instagram](https://www.instagram.com/phkrw)
+
+────────
