@@ -11,33 +11,6 @@
 > Developer
 ```
 
-⚙️ Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,kotlin,swift,js,ts,rust,go,bash,linux,docker,git,github,androidstudio,flutter,react" />
-</p>
-
-🧑‍🏫 Linguagem
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=500&lines=C;C%2B%2B;Python;Objective-C;Swift" />
-</p>
-
-📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=0xffffffffe2d3f67820&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xffffffffe2d3f67820&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xffffffffe2d3f67820&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xffffffffe2d3f67820&theme=tokyo-night"/>
-</p>
-
 🌐 Redes
 
 [GitHub](https://github.com/0xffffffffe2d3f67820)
