@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=INITIALIZING+AI+SYSTEM...;ACCESS+GRANTED;WELCOME+COMMANDER" />
 </p>
 
-👋 Sobre Mim
+🕺 Sobre Mim
 
 ```text
 > ScreenShare Forense
