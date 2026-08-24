@@ -1,6 +1,5 @@
 
 > ScreenShare Forense
-> Developer
 
 🌐 Redes
 
