@@ -4,6 +4,5 @@
 🌐 Redes
 
 [Discord](https://discord.com/users/1345103578808848555)
-
 [Telegram](https://t.me/axxdev)
 
