@@ -3,5 +3,5 @@
 
 🌐 Redes
 
-[GitHub](https://github.com/0xffffffffe2d3f67820)
-[Discord](https://discord.gg/gAD5eZZ7S)
+
+[Discord](https://discord.com/users/1345103578808848555)
